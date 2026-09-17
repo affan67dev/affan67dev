@@ -1,5 +1,4 @@
-# AFFAN MIR
-
+# Affan Mir
 ### Student • Independent Developer • Builder • Open-Source Learner
 
 > **Build → Break → Learn → Fix → Repeat.**
